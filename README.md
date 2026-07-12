@@ -3,12 +3,12 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5B21B6,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Ashish%20Kuniyal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Ashish%20Kuniyal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20Data%20Science%20Enthusiast%20%7C%20Machine%20Learning&descAlignY=60"/>
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Explorer;Full+Stack+Developer+(MERN);Building+Scalable+Applications;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=950&lines=Data+Analyst;Data+Science+Enthusiast;Python+Developer;Machine+Learning+Learner;SQL+Explorer;Turning+Data+Into+Insights;Building+Data-Driven+Solutions"/>
 
 </p>
 
@@ -29,7 +29,7 @@
 <p align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-5B21B6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/ashish-kuniyal">
@@ -37,7 +37,7 @@
 </a>
 
 <a href="mailto:aashishkuniyal2024@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/aashish2024-oss">
@@ -50,9 +50,9 @@
 
 ![](https://komarev.com/ghpvc/?username=aashish2024-oss&style=for-the-badge&color=7C3AED)
 
-![](https://img.shields.io/github/followers/aashish2024-oss?style=for-the-badge&color=6D28D9&label=Followers)
+![](https://img.shields.io/github/followers/aashish2024-oss?style=for-the-badge&label=Followers&color=6D28D9)
 
-![](https://img.shields.io/github/stars/aashish2024-oss?affiliations=OWNER&style=for-the-badge&color=8B5CF6&label=Stars)
+![](https://img.shields.io/github/stars/aashish2024-oss?style=for-the-badge&label=Stars&color=8B5CF6)
 
 </p>
 
@@ -60,65 +60,61 @@
 
 # About Me
 
-I'm **Ashish Kuniyal**, an aspiring **Software Engineer** and **Data Science enthusiast** pursuing a Bachelor's degree in **Information Technology**.
+Hi, I'm **Ashish Kuniyal**, a **Data Analyst** and **Data Science enthusiast** pursuing a **Bachelor of Technology in Information Technology**.
 
-My passion lies in building intelligent software products that combine **Artificial Intelligence**, **Machine Learning**, **Data Analytics**, and **Full Stack Development** to solve real-world problems.
+I am passionate about transforming raw data into meaningful insights that drive smarter decisions. My primary interests lie in **Data Analytics, Machine Learning, Business Intelligence, and Predictive Modeling**.
 
-I enjoy transforming raw data into actionable insights while engineering scalable applications with modern technologies. My approach focuses on writing clean, maintainable code, designing efficient systems, and continuously improving through hands-on development.
+I enjoy solving real-world problems through **Python, SQL, statistics, and data visualization**, while continuously improving my analytical thinking and software development skills.
 
-Currently I'm expanding my expertise in:
-
-- Machine Learning
-- Data Analytics
-- Software Engineering
-- Backend Development
-- MERN Stack
-- System Design
-- Data Structures & Algorithms
+Alongside analytics, I build practical applications that combine data with modern technologies to deliver impactful solutions.
 
 ---
 
 ## Professional Highlights
 
-✔ Software Engineering Mindset
+✔ Data Analysis & Business Insights
 
-✔ AI & Machine Learning Enthusiast
+✔ Exploratory Data Analysis (EDA)
 
-✔ Data Analysis & Visualization
+✔ Data Cleaning & Preprocessing
 
-✔ Full Stack MERN Developer
+✔ Python for Data Analytics
 
-✔ REST API Development
+✔ SQL Query Optimization
 
-✔ MongoDB Database Design
+✔ Machine Learning Fundamentals
 
-✔ Scalable Backend Systems
+✔ Data Visualization
 
-✔ Open Source Learner
+✔ Dashboard Development
 
-✔ Strong Problem Solving Skills
+✔ Statistical Analysis
 
-✔ Continuous Learning Culture
+✔ Problem Solving & DSA
+
+✔ Git & GitHub
+
+✔ Continuous Learning
 
 ---
 
 ## Open To
 
-- Software Engineering Internships
+- Data Analyst Internships
 
-- AI / ML Internships
+- Data Science Internships
 
-- Data Science Roles
+- Business Analyst Roles
 
-- Backend Development
+- Machine Learning Internships
+
+- Analytics Projects
 
 - Open Source Contributions
 
-- Research Collaborations
+- Research Opportunities
 
-- Freelance Development
-
-- Innovative Product Teams
+- Entry-Level Data Science Roles
 
 ---
 
@@ -128,43 +124,13 @@ Currently I'm expanding my expertise in:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=python,sql,java,c,javascript,html,css"/>
 
 </p>
 
 ---
 
-## Frontend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript,bootstrap"/>
-
-</p>
-
----
-
-## Backend & Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
-
-</p>
-
----
-
-## Cloud • DevOps • Tooling
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker"/>
-
-</p>
-
----
-
-## Data Science & AI
+## Data Analytics
 
 <p align="center">
 
@@ -174,17 +140,102 @@ Currently I'm expanding my expertise in:
 
 <p align="center">
 
-| Technology | Expertise |
-|------------|-----------|
-| NumPy | █████████░ |
-| Pandas | █████████░ |
-| Matplotlib | ████████░░ |
-| Seaborn | ████████░░ |
-| Scikit-Learn | ████████░░ |
-| SQL | █████████░ |
-| Machine Learning | ████████░░ |
-| Data Cleaning | █████████░ |
-| Data Visualization | █████████░ |
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+</p>
+
+---
+
+## Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+---
+
+## Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+
+</p>
+
+---
+
+## Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker"/>
+
+</p>
+
+---
+
+# Core Expertise
+
+| Skill | Proficiency |
+|---------|:---------:|
+| Python | ⭐⭐⭐⭐⭐ |
+| SQL | ⭐⭐⭐⭐⭐ |
+| Pandas | ⭐⭐⭐⭐⭐ |
+| NumPy | ⭐⭐⭐⭐⭐ |
+| Data Cleaning | ⭐⭐⭐⭐⭐ |
+| Exploratory Data Analysis | ⭐⭐⭐⭐⭐ |
+| Data Visualization | ⭐⭐⭐⭐☆ |
+| Power BI | ⭐⭐⭐⭐☆ |
+| Machine Learning | ⭐⭐⭐⭐☆ |
+| Statistics | ⭐⭐⭐⭐☆ |
+| Feature Engineering | ⭐⭐⭐☆☆ |
+| Deep Learning | ⭐⭐☆☆☆ |
+
+---
+
+<p align="center">
+
+### 📊 Data Science Workflow
+
+```text
+Raw Data
+    │
+    ▼
+Data Cleaning
+    │
+    ▼
+Exploratory Data Analysis
+    │
+    ▼
+Feature Engineering
+    │
+    ▼
+Machine Learning
+    │
+    ▼
+Model Evaluation
+    │
+    ▼
+Insights & Dashboards
+```
 
 </p>
 
@@ -192,6 +243,6 @@ Currently I'm expanding my expertise in:
 
 <p align="center">
 
-### *"Engineering intelligent solutions through data, software, and continuous innovation."*
+> **"Turning data into insights, insights into decisions, and decisions into impact."**
 
 </p>
