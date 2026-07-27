@@ -17,42 +17,34 @@
 <p align="center">
 
 ![](https://img.shields.io/badge/B.Tech-Information%20Technology-5B21B6?style=for-the-badge)
-
 ![](https://img.shields.io/badge/CGPA-8.20%2F10-6D28D9?style=for-the-badge)
-
 ![](https://img.shields.io/badge/IMS%20Engineering%20College-Ghaziabad-7C3AED?style=for-the-badge)
-
 ![](https://img.shields.io/badge/Location-Delhi,%20India-8B5CF6?style=for-the-badge)
 
 </p>
 
 <p align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 <a href="https://linkedin.com/in/ashish-kuniyal">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:aashishkuniyal2024@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://github.com/aashish2024-oss">
+<a href="https://github.com/ashishkuniyal">
 <img src="https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/gyBKmr66aq/">
+<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=aashish2024-oss&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/aashish2024-oss?style=for-the-badge&label=Followers&color=6D28D9)
-
-![](https://img.shields.io/github/stars/aashish2024-oss?style=for-the-badge&label=Stars&color=8B5CF6)
+![](https://komarev.com/ghpvc/?username=ashishkuniyal&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/ashishkuniyal?style=for-the-badge&label=Followers&color=6D28D9)
+![](https://img.shields.io/github/stars/ashishkuniyal?style=for-the-badge&label=Stars&color=8B5CF6)
 
 </p>
 
@@ -62,152 +54,68 @@
 
 Hi, I'm **Ashish Kuniyal**, a **Data Analyst** and **Data Science enthusiast** pursuing a **Bachelor of Technology in Information Technology**.
 
-I am passionate about transforming raw data into meaningful insights that drive smarter decisions. My primary interests lie in **Data Analytics, Machine Learning, Business Intelligence, and Predictive Modeling**.
+I'm passionate about transforming raw data into meaningful insights that drive smarter decisions. My primary interests lie in **Data Analytics, Machine Learning, Business Intelligence, and Predictive Modeling**.
 
-I enjoy solving real-world problems through **Python, SQL, statistics, and data visualization**, while continuously improving my analytical thinking and software development skills.
-
-Alongside analytics, I build practical applications that combine data with modern technologies to deliver impactful solutions.
-
----
-
-## Professional Highlights
-
-✔ Data Analysis & Business Insights
-
-✔ Exploratory Data Analysis (EDA)
-
-✔ Data Cleaning & Preprocessing
-
-✔ Python for Data Analytics
-
-✔ SQL Query Optimization
-
-✔ Machine Learning Fundamentals
-
-✔ Data Visualization
-
-✔ Dashboard Development
-
-✔ Statistical Analysis
-
-✔ Problem Solving & DSA
-
-✔ Git & GitHub
-
-✔ Continuous Learning
+I enjoy solving real-world problems through **Python, SQL, statistics, and data visualization**, while continuously sharpening my analytical thinking and software development skills — and building practical applications that combine data with modern technologies to deliver impactful solutions.
 
 ---
 
 ## Open To
 
-- Data Analyst Internships
-
-- Data Science Internships
-
+- Data Analyst / Data Science Internships
 - Business Analyst Roles
-
 - Machine Learning Internships
-
-- Analytics Projects
-
-- Open Source Contributions
-
+- Analytics Projects & Open Source Contributions
 - Research Opportunities
-
 - Entry-Level Data Science Roles
 
 ---
 
 # Tech Stack
 
-## Programming Languages
-
+### Languages
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,sql,java,c,javascript,html,css"/>
-
 </p>
 
----
-
-## Data Analytics
-
+### Data Analytics & ML
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-
 </p>
 
----
-
-## Databases
-
+### Databases & Tools
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman,linux"/>
 </p>
 
----
-
-## Development Tools
-
+### Currently Learning
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
-
-</p>
-
----
-
-## Currently Learning
-
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker"/>
-
 </p>
 
 ---
 
-# Core Expertise
+# Skills & Proficiency
 
-| Skill | Proficiency |
-|---------|:---------:|
-| Python | ⭐⭐⭐⭐⭐ |
-| SQL | ⭐⭐⭐⭐⭐ |
-| Pandas | ⭐⭐⭐⭐⭐ |
-| NumPy | ⭐⭐⭐⭐⭐ |
-| Data Cleaning | ⭐⭐⭐⭐⭐ |
-| Exploratory Data Analysis | ⭐⭐⭐⭐⭐ |
-| Data Visualization | ⭐⭐⭐⭐☆ |
-| Power BI | ⭐⭐⭐⭐☆ |
-| Machine Learning | ⭐⭐⭐⭐☆ |
-| Statistics | ⭐⭐⭐⭐☆ |
-| Feature Engineering | ⭐⭐⭐☆☆ |
-| Deep Learning | ⭐⭐☆☆☆ |
+| Skill | Level | Notes |
+|---|:---:|---|
+| Python | ⭐⭐⭐⭐⭐ | NumPy, Pandas, automation, data processing |
+| SQL | ⭐⭐⭐⭐⭐ | Joins, window functions, CTEs, query optimization |
+| Data Cleaning & EDA | ⭐⭐⭐⭐⭐ | Wrangling, aggregation, trend & correlation discovery |
+| Data Visualization | ⭐⭐⭐⭐☆ | Matplotlib, Seaborn, Power BI, Excel dashboards |
+| Machine Learning | ⭐⭐⭐⭐☆ | Classification, regression, model evaluation |
+| Statistics | ⭐⭐⭐⭐☆ | Descriptive stats, probability, hypothesis testing |
+| Business Intelligence | ⭐⭐⭐⭐☆ | Interactive dashboards, KPI analysis, reporting |
+| Feature Engineering | ⭐⭐⭐☆☆ | Applied within ML pipelines |
+| Deep Learning | ⭐⭐☆☆☆ | Currently learning (TensorFlow, PyTorch) |
 
 ---
 
@@ -216,175 +124,62 @@ Alongside analytics, I build practical applications that combine data with moder
 ### 📊 Data Science Workflow
 
 ```text
-Raw Data
-    │
-    ▼
-Data Cleaning
-    │
-    ▼
-Exploratory Data Analysis
-    │
-    ▼
-Feature Engineering
-    │
-    ▼
-Machine Learning
-    │
-    ▼
-Model Evaluation
-    │
-    ▼
-Insights & Dashboards
+Raw Data → Data Cleaning → EDA → Feature Engineering
+        → Machine Learning → Model Evaluation → Insights & Dashboards
 ```
 
 </p>
 
 ---
 
-# AI / ML Expertise
-
-<table align="center">
-
-<tr>
-<th width="220">Domain</th>
-<th width="160">Proficiency</th>
-<th>Details</th>
-</tr>
-
-<tr>
-<td><b>Data Analysis</b></td>
-<td>★★★★★</td>
-<td>Data Cleaning, Wrangling, Aggregation, Business Insights</td>
-</tr>
-
-<tr>
-<td><b>Python</b></td>
-<td>★★★★★</td>
-<td>NumPy, Pandas, Automation, Data Processing</td>
-</tr>
-
-<tr>
-<td><b>SQL</b></td>
-<td>★★★★★</td>
-<td>Complex Queries, Joins, Window Functions, CTEs</td>
-</tr>
-
-<tr>
-<td><b>Exploratory Data Analysis</b></td>
-<td>★★★★★</td>
-<td>Statistical Analysis, Trend Discovery, Correlation Analysis</td>
-</tr>
-
-<tr>
-<td><b>Data Visualization</b></td>
-<td>★★★★☆</td>
-<td>Matplotlib, Seaborn, Power BI, Excel Dashboards</td>
-</tr>
-
-<tr>
-<td><b>Machine Learning</b></td>
-<td>★★★★☆</td>
-<td>Classification, Regression, Model Evaluation, Feature Engineering</td>
-</tr>
-
-<tr>
-<td><b>Statistics</b></td>
-<td>★★★★☆</td>
-<td>Descriptive Statistics, Probability, Hypothesis Testing</td>
-</tr>
-
-<tr>
-<td><b>Business Intelligence</b></td>
-<td>★★★★☆</td>
-<td>Interactive Dashboards, KPI Analysis, Reporting</td>
-</tr>
-
-<tr>
-<td><b>Software Development</b></td>
-<td>★★★★☆</td>
-<td>Python, Java, MERN Stack, REST APIs</td>
-</tr>
-
-</table>
-
----
 # Featured Projects
 
 <details open>
+<summary><h3>📊 Laptop Sales Analysis Dashboard</h3></summary>
 
-<summary>
-
-# 📊 Laptop Sales Analysis Dashboard
-
-</summary>
-
-A comprehensive **Business Intelligence Dashboard** developed using **Python, Pandas, SQL, and Power BI** to analyze laptop sales data, customer purchasing behavior, product performance, and revenue trends.
+A comprehensive **Business Intelligence Dashboard** built with **Python, Pandas, SQL, and Power BI** to analyze laptop sales data, customer purchasing behavior, product performance, and revenue trends.
 
 | Category | Details |
-|-----------|---------|
+|---|---|
 | Stack | Python • Pandas • NumPy • SQL • Power BI |
 | Dataset | Laptop Sales Dataset |
-| Scale | Thousands of Records |
-| Performance | Optimized Data Processing Pipeline |
-| Visualization | Interactive Dashboard |
-| Business Value | Sales Insights & Decision Support |
-| Repository | Coming Soon |
+| Scale | Thousands of records |
+| Output | Interactive dashboard with sales & customer insights |
+| Repository | Coming soon |
 
-### Highlights
-
-- Cleaned and transformed raw sales datasets.
-- Conducted Exploratory Data Analysis (EDA).
-- Built interactive dashboards.
-- Identified top-selling brands and products.
-- Analyzed customer purchasing trends.
-- Generated business recommendations.
+**Highlights**
+- Cleaned and transformed raw sales datasets
+- Conducted exploratory data analysis (EDA)
+- Built interactive dashboards to surface top-selling brands and products
+- Analyzed customer purchasing trends and generated business recommendations
 
 </details>
 
----
 <details>
+<summary><h3>🎓 Campus Connect</h3></summary>
 
-<summary>
-
-# 🎓 Campus Connect
-
-</summary>
-
-An intelligent platform that aggregates **Hackathons, Internships, Coding Contests, Workshops, and College Events** into one centralized portal.
+An intelligent platform that aggregates **hackathons, internships, coding contests, workshops, and college events** into one centralized portal.
 
 | Category | Details |
-|-----------|---------|
+|---|---|
 | Stack | React • Node.js • Express • MongoDB • Socket.io |
 | Architecture | MERN Stack |
-| Authentication | JWT |
-| Database | MongoDB |
-| Security | JWT Authentication |
-| Repository | Coming Soon |
+| Auth | JWT |
+| Repository | Coming soon |
 
-### Highlights
-
-- Event Aggregation
-- Real-time Notifications
-- JWT Authentication
-- Opportunity Discovery
-- Personalized Recommendations
-- REST APIs
-- LinkedIn Post Generator
-- Search & Filtering
+**Highlights**
+- Real-time event notifications via Socket.io
+- JWT-based authentication
+- Personalized opportunity recommendations
+- Search, filtering, and a LinkedIn post generator
 
 </details>
 
----
 <details>
-
-<summary>
-
-# 🚀 Upcoming Data Science Projects
-
-</summary>
+<summary><h3>🚀 Upcoming Data Science Projects</h3></summary>
 
 | Project | Status |
-|----------|--------|
+|---|---|
 | Customer Churn Prediction | 🔄 In Progress |
 | House Price Prediction | 📅 Planned |
 | Credit Card Fraud Detection | 📅 Planned |
@@ -397,139 +192,29 @@ An intelligent platform that aggregates **Hackathons, Internships, Coding Contes
 </details>
 
 ---
+
 # Experience
 
-<table>
+**AI/ML Virtual Intern — EduSkills × AICTE** · 2025
 
-<tr>
-<td width="25%">
+Worked on machine learning and data analytics projects using Python and industry-standard libraries.
 
-### AI/ML Virtual Intern
+- Built ML models for classification and regression
+- Performed data preprocessing and feature engineering
+- Conducted exploratory data analysis and visualized datasets with Matplotlib/Seaborn
+- Generated actionable insights from real-world datasets using Pandas, NumPy, and Scikit-learn
 
-**EduSkills × AICTE**
-
-**2025**
-
-</td>
-
-<td>
-
-Worked on Machine Learning and Data Analytics projects using Python and industry-standard libraries.
-
-#### Responsibilities
-
-- Built Machine Learning models for classification and regression.
-- Performed data preprocessing and feature engineering.
-- Conducted Exploratory Data Analysis (EDA).
-- Visualized datasets using Matplotlib and Seaborn.
-- Generated actionable insights from real-world datasets.
-- Worked with Pandas, NumPy, and Scikit-learn.
-
-#### Technologies
-
-`Python` `Pandas` `NumPy` `Matplotlib`
-`Scikit-learn` `Machine Learning`
-`EDA` `Data Visualization`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| 🎓 B.Tech in Information Technology | IMS Engineering College |
-| 📊 Data Science Enthusiast | Python, SQL, Machine Learning |
-| 💻 Built Full-Stack Projects | MERN Stack Applications |
-| 📈 Data Analytics Projects | Dashboard & EDA Projects |
-| 🤖 AI/ML Virtual Internship | EduSkills × AICTE |
-| 🧩 DSA Practice | Consistently improving problem-solving skills |
-| 🌱 Continuous Learner | Exploring AI, Analytics & Cloud |
-
-</div>
+`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `EDA` `Data Visualization`
 
 ---
 
 # Certifications
 
-## AWS
+Currently pursuing certifications in **AWS**, **Oracle**, **NPTEL**, and **Cisco** — this section will be updated as they're completed.
 
 <p align="center">
-
-Coming Soon
-
-</p>
-
----
-
-## Oracle
-
-<p align="center">
-
-Coming Soon
-
-</p>
-
----
-
-## NPTEL
-
-<p align="center">
-
-Coming Soon
-
-</p>
-
----
-
-## Cisco
-
-<p align="center">
-
-Coming Soon
-
-</p>
-
----
-
-## AI / ML
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/AI--ML%20Virtual%20Internship-EduSkills-blue?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/AICTE-Certified-success?style=for-the-badge"/>
-
-</p>
-
----
-# Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/gyBKmr66aq/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ashishkuniyal">
-<img src="https://img.shields.io/badge/GitHub-ashishkuniyal-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ashish-kuniyal">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:aashishkuniyal2024@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -537,65 +222,39 @@ Coming Soon
 # GitHub Analytics
 
 <p align="center">
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ashishkuniyal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkuniyal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
+### Streak
 <p align="center">
-
-🎯 **Target Roles:** Data Analyst • Data Scientist • Business Analyst • Machine Learning Engineer
-
-</p>
-
-# GitHub Streak
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=ashishkuniyal&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# GitHub Trophies
-
+### Trophies
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=ashishkuniyal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
-
 </p>
 
----
-
-# Contribution Activity
-
+### Contribution Activity
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkuniyal&theme=tokyo-night&hide_border=true&radius=12"/>
-
 </p>
 
-# Contribution Snake
-
+### Contribution Snake
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/ashishkuniyal/ashishkuniyal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 </p>
 
 ---
+
 # Current Focus
 
 ```yaml
 learning:
   - Advanced SQL
   - Statistics for Data Science
-  - Machine Learning
-  - Deep Learning
+  - Machine Learning & Deep Learning
   - Power BI
   - Data Structures & Algorithms
 
@@ -610,37 +269,27 @@ exploring:
   - NLP
   - Time Series Forecasting
   - Cloud for Data Science
-
-open_to:
-  - Data Analyst Internships
-  - Data Science Internships
-  - Business Analyst Roles
-  - Machine Learning Internships
 ```
+
+---
 
 # Connect With Me
 
 <p align="center">
-
 <a href="mailto:aashishkuniyal2024@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-aashishkuniyal2024@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/ashish-kuniyal">
 <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Kuniyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/ashishkuniyal">
 <img src="https://img.shields.io/badge/GitHub-ashishkuniyal-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://leetcode.com/u/gyBKmr66aq/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-
 </p>
 
----
 <p align="center">
 
 > **"Transforming data into actionable insights, one project at a time."**
@@ -648,7 +297,5 @@ open_to:
 </p>
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7"/>
-
 </p>
