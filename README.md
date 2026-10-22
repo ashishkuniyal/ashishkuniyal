@@ -17,12 +17,13 @@
 
 ## 🚀 About Me
 
-B.Tech Information Technology student at **IMS Engineering College, Ghaziabad** (CGPA **8.20/10**, graduating **April 2027**).
+B.Tech Information Technology student at **IMS Engineering College, Ghaziabad** (CGPA **8.20/10**, graduating **April 2027**), based in Delhi, India.
 
 I build **end-to-end data projects**: data cleaning and EDA, predictive modeling, and deployed apps, using Python, SQL, Pandas, scikit-learn, XGBoost, Power BI and Streamlit.
 
 - 🎓 Two **EduSkills x AICTE** virtual internships, both with **Grade O (Outstanding)**
 - 💼 Software Engineer Intern at **V Devi Foundation**
+- 📈 Data Analytics Trainee at **CETPA Infotech** (Training Completion Certificate)
 - 🏅 **NASSCOM Gold (84%)** in Data Science with Python
 - 🧩 LeetCode 50-day and 100-day badges (2026)
 
@@ -35,30 +36,35 @@ I build **end-to-end data projects**: data cleaning and EDA, predictive modeling
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 **Data Analysis & Visualization:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+<br>Exploratory Data Analysis (EDA) · Data Cleaning · Data Wrangling · Feature Engineering · Power BI (DAX, Power Query)
 
 **Machine Learning:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP-7C3AED?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-<br>Random Forest · KMeans · Isolation Forest · Feature Engineering · Model Evaluation
+<br>Supervised Learning · Random Forest · KMeans · Isolation Forest · Predictive Modeling · Model Evaluation
 
 **Backend & Web:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+<br>REST APIs · JWT Authentication
 
-**Databases & Tools:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Databases & Tools:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<br>SQLAlchemy · GitHub
+
+**Core Competencies:** Data Analysis · Data Wrangling · Predictive Modeling · Data Structures and Algorithms · REST API Development
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🎓 Cognify: Student Risk Prediction Platform
-Full-stack ML platform that predicts Math, Reading and Writing scores (R² ≈ 0.67) and classifies students as **LOW / MEDIUM / HIGH** risk using synthetic behavioral features. Includes SHAP explanations, a what-if simulator and an intervention engine. Experiments tracked with MLflow, containerized with Docker.
+Full-stack ML platform that predicts Math, Reading and Writing scores (R² ≈ 0.67) and classifies students as **LOW / MEDIUM / HIGH** risk using synthetic behavioral features. Includes SHAP-based explanations, a what-if simulator and an intervention engine. Experiments tracked with MLflow, containerized with Docker.
 `FastAPI` `React` `XGBoost` `Random Forest` `KMeans` `SHAP` `MLflow` `Docker`
 [GitHub](https://github.com/ashishkuniyal) · [Live Demo](#)
 
 ### 🧠 MindMetric: Wellness Analytics App
-Scores user wellness with a Random Forest Regressor trained on engineered features (Sleep-to-Screen Ratio, Productivity Ratio, Activity-Stress Index). JWT login with bcrypt hashing, history tracking, streaks and Chart.js dashboards.
+Scores user wellness with a Random Forest Regressor trained on engineered features (Sleep-to-Screen Ratio, Productivity Ratio, Activity-Stress Index). JWT login with bcrypt password hashing, history tracking, streaks and Chart.js dashboards.
 `FastAPI` `scikit-learn` `Pandas` `SQLite` `JWT` `Chart.js`
 [GitHub](https://github.com/ashishkuniyal) · [Live Demo](#)
 
-### 📊 Laptop Price & Market Analytics
-Cleaned **27,456 records across 10 brands** (removed 2,846 duplicates). Found that gaming and design laptops drive **~72% of revenue**, and identified the top-selling brand. Results presented in Plotly, Streamlit and Power BI dashboards, plus a Random Forest price-prediction model.
+### 📊 Laptop Price & Market Analytics: Sales Analysis and Price Prediction
+Cleaned **27,456 records across 10 brands** (removed 2,846 duplicates) before analysis. Found that gaming and design laptops drive **~72% of revenue** and that **MSI leads sales at TL 0.53bn**. Results presented in Plotly, Streamlit and Power BI dashboards, plus a Random Forest price-prediction model.
 `Python` `Pandas` `Plotly` `scikit-learn` `Streamlit` `Power BI`
 [GitHub](https://github.com/ashishkuniyal)
 
@@ -73,9 +79,23 @@ Full-stack platform with student, organizer and admin roles, JWT auth with refre
 
 | Role | Organization | Period |
 |------|--------------|--------|
+| Data Analytics Trainee | CETPA Infotech, IMS Engineering College, Ghaziabad | Jun 2026 – Sep 2026 |
 | Software Engineer Intern | V Devi Foundation (Hybrid, Delhi) | Jul 2026 – Aug 2026 |
 | Data Engineering Virtual Intern (Grade O) | EduSkills x AICTE, AWS Academy | Apr 2026 – Jun 2026 |
-| AI/ML Virtual Intern (Grade O) | EduSkills x AICTE, Google for Developers | Jan 2026 – Mar 2026 |
+| AI/ML Virtual Intern (Grade O) | EduSkills x AICTE, Google for Developers India Edu Program | Jan 2026 – Mar 2026 |
+
+**Highlights**
+- **CETPA Infotech:** completed a three-month Data Analytics training program (started 10 June 2026) and received a Training Completion Certificate.
+- **V Devi Foundation:** built features for the foundation's website and dashboard using Flask and REST APIs, developed a Publications management theme, integrated frontend features with backend APIs, and collaborated via Git and GitHub.
+- **EduSkills x AICTE (AI/ML):** completed a 10-week internship with Grade O (Outstanding); performed EDA, data cleaning and feature engineering with Python, Pandas and NumPy, built supervised models with scikit-learn, and created Matplotlib and Seaborn visualizations.
+
+---
+
+## 🎓 Education
+
+**B.Tech, Information Technology** · April 2023 – Expected April 2027
+IMS Engineering College, Ghaziabad, Uttar Pradesh, India · **CGPA: 8.20 / 10.0**
+*Relevant coursework:* Data Structures and Algorithms, Database Management Systems, Operating Systems, Computer Networks, Software Engineering
 
 ---
 
@@ -86,6 +106,14 @@ Full-stack platform with student, organizer and admin roles, JWT auth with refre
 - **Data Engineering on AWS, Foundations**: AWS Academy, Jun 2026
 - **AI Fundamentals**: Cisco Networking Academy with IBM SkillsBuild, Sep 2026
 - **Data Analytics Job Simulation**: Deloitte (Forage), Jun 2026
+
+---
+
+## 🥇 Achievements
+
+- NASSCOM Gold (84%) in Data Science with Python
+- Grade O (Outstanding) in both EduSkills x AICTE virtual internships
+- LeetCode 50-day and 100-day badges (2026)
 
 ---
 
