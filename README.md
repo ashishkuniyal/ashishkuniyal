@@ -186,8 +186,21 @@ I build **end-to-end data projects**: cleaning and exploring raw data, training 
 
 ## 📊 GitHub Activity
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+  <img src="./github-isocalendar.svg" alt="Contribution calendar" width="100%"/>
+</td>
+<td width="50%" align="center" valign="middle">
+  <img src="./github-languages.svg" alt="Most used languages" width="100%"/>
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <img src="./github-metrics.svg" alt="Ashish Kuniyal GitHub metrics" width="100%"/>
+
+![Profile views](https://komarev.com/ghpvc/?username=ashishkuniyal&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
+
 </div>
 
 ---
